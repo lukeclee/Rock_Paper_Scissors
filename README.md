@@ -1,0 +1,1 @@
+A simple game of rock, paper, scissors. Played against a computer player.
